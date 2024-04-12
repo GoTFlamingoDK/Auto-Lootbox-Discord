@@ -41,4 +41,4 @@ python main.py
 - Scriptet skal køres i en løkke, hvis du vil have det til at fortsætte med at åbne lootkasser automatisk.
 
 ## Credits
-- Skrevet af [GoT Flamingo](https://github.com/gotflamingo)
+- Skrevet af [GoT Flamingo](https://github.com/gotflamingodk)
