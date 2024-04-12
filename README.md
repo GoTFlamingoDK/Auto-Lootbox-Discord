@@ -40,5 +40,6 @@ python main.py
 - For at scriptet kan fungere korrekt, skal du sørge for at have token til Discord-kontoen, der skal bruges til at åbne lootkasser.
 - Scriptet skal køres i en løkke, hvis du vil have det til at fortsætte med at åbne lootkasser automatisk.
 
+
 ## Credits
-- Skrevet af [GoT Flamingo](https://github.com/gotflamingodk)
+- Lavet af [GoT Flamingo🦩](https://github.com/gotflamingodk)
